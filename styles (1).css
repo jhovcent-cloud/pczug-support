@@ -20,6 +20,20 @@ body {
   background-color: var(--background-color);
   max-width: 1400px;
   margin: 0 auto;
+
+
+
+#images igms {
+
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+
+
+}
+
+
+
 }
 
 a {
